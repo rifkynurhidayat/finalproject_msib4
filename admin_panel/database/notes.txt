@@ -1,0 +1,1 @@
+untuk pembuatan user admin harus buat akun terlebih dahulu pada registrasi di admin selanjutnya ubah pada database phpmyadmin untuk mengubah role admin

@@ -65,7 +65,7 @@ window.location.href = 'index.php?page=home';
                                 <span class="text-theme">account</span>
                             </h4>
                             <div class="mb-3">
-                                <label class="form-label" for="username">Username</label>
+                                <label class=" form-label" for="username">Username</label>
                                 <input class="form-control" id="username" name="username" type="text" value="<?= $data_user['username'] ?>" placeholder="Username" data-sb-validations="required" />
                                 <div class="invalid-feedback" data-sb-feedback="username:required">userame is required.</div>
                             </div>
